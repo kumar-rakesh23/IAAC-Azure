@@ -19,4 +19,5 @@ Steps of execution.
 
 # Architecture Digram
 
-![image](https://github.com/kumar-rakesh23/IAAC-Azure/assets/33743858/c90f1db3-0477-4706-bf41-35fb681c5b9d)
+![image](https://github.com/kumar-rakesh23/IAAC-Azure/assets/33743858/9d9c4f62-57fd-46f8-a623-ee5404f96a27)
+
